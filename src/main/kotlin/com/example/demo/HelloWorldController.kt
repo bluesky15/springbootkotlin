@@ -1,5 +1,6 @@
 package com.example.demo
 
+import com.example.demo.model.Student
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.DeleteMapping
 import org.springframework.web.bind.annotation.GetMapping
