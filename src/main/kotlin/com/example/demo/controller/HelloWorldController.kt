@@ -1,5 +1,6 @@
-package com.example.demo
+package com.example.demo.controller
 
+import com.example.demo.service.StudentService
 import com.example.demo.model.Student
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.DeleteMapping
